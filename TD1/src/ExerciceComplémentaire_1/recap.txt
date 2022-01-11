@@ -1,0 +1,7 @@
+Magasin	Année	CA
+Lille	2018	5856.95
+Arras	2018	10313.23
+Arras	2019	1756.24
+Lens	2018	23747.72
+Lens	2019	6586.87
+LaBassée	2019	45865.43
